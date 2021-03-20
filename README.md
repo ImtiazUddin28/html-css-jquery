@@ -1,1 +1,1 @@
-# html-css-jquery project
+# one page html-css-jquery project
